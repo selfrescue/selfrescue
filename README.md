@@ -68,7 +68,8 @@
 <table>
   <tr>
     <td align="center">
-    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/3ae060ca-8f5f-4ca7-a880-3168cb5deaec" width="150px;"/>
+    <a href=>
+    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/3ae060ca-8f5f-4ca7-a880-3168cb5deaec" width="150px;" alt='Google Colab'>
     <br />
     <sub>
     <b>Google Colab</b><br>
@@ -116,13 +117,9 @@
     <sub>
     <b>Google Drive</b><br>
     <b> 📹 구현 영상 업로드 </b>
-    </sub>
-    </a>
-    <td align="center">
-    <a href=>
   </tr>
 </table>
 
 
-## 📝 Project
+## 📝 프로젝트
 
