@@ -61,21 +61,20 @@
   </tr>
 </table>
 
-## ⌨️ Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
 ## 🧰 툴
 <table>
   <tr>
     <td align="center">
-    <a href=>
-    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/3ae060ca-8f5f-4ca7-a880-3168cb5deaec" width="150px;" alt='Google Colab'>
+    <a href=''>
+    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/3ae060ca-8f5f-4ca7-a880-3168cb5deaec" width="150px;" alt='Google Colab'/>
     <br />
     <sub>
     <b>Google Colab</b><br>
     <b> 💻 모델링 설계 </b>
     </sub>
     </a>
+    <br />
+    </td>
     <td align='center'>
     <a href='https://www.notion.so/7e97e0c8815d4acf815ffa0c885348a4?pvs=4'>
     <img src='https://github.com/selfrescue/selfrescue/assets/130124454/189b7c67-88a0-49c6-9682-1aecef0533e2' width="150px;" alt="Notion"/>
@@ -85,6 +84,8 @@
     <b> 📆 일정 관리, 역할 분배, 회의록 공유</b>
     </sub>
     </a>
+    <br />
+    </td>
     <td align="center">
     <a href='https://discord.gg/KJWkZJg4'>
     <img src='https://github.com/selfrescue/selfrescue/assets/130124454/cf370aee-98cc-4546-a1b3-a68884994a20' width="150px;" alt="Discord"/>
@@ -97,9 +98,8 @@
     <br />
     </td>
     <td align="center">
-    <a href=>
-    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/76109cbe-7af1-4494-ae52-3abbdd09fdf2"
- width="150px;" alt="Google Meet"/>
+    <a href=''>
+    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/76109cbe-7af1-4494-ae52-3abbdd09fdf2" width="150px;" alt="Google Meet"/>
     <br />
     <sub>
     <b>Google Meet</b><br>
@@ -108,15 +108,17 @@
     </a>
     <br />
     </td>    
-    <br />
-    </td>    
     <td align="center">
-    <a href=>
+    <a href=''>
     <img src="https://github.com/selfrescue/selfrescue/assets/130124454/d657cc6e-e8a1-4c48-9988-3ba3cf8f6c63" width="150px;" alt="Google Drive"/>
     <br />
     <sub>
     <b>Google Drive</b><br>
     <b> 📹 구현 영상 업로드 </b>
+    </sub>
+    </a>
+    <br />
+    </td>
   </tr>
 </table>
 
